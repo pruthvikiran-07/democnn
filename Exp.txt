@@ -1,0 +1,6 @@
+As the data increased , storage also increased. This lead to larger storage and quick processing.
+Hence to manage large files, HDFS was introduced 
+
+Name node has the location of the data and job tracker tracks the jobs and parallel processes should be run. 
+after locating and processing data parallely from different location(mapping) it's merged together to give product output
+this is known as reducing. the process is mapreduce.
