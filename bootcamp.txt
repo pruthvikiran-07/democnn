@@ -1,0 +1,119 @@
+=>16/11/2023
+1)print 2-40 with step3
+2)choose a random number b/w 2-40 and when the iteration==random number then stop the loop
+3)nested loops
+4)how to connect sql server to python
+5)how to create table
+6)how to insert values
+7)what is transaction
+8)properties of transaction
+	Atomicity,Consistency,Isolation,Durability
+9)how to use autocommit
+10)how to use fetchone()
+11)use of fetchall()
+12)how to change datetime
+13)how to change to dateonly
+14)how to create a function
+15)how to pass parameter
+16)how to create sql db using python
+17)how to use return 
+
+=>17/11/2023
+1)what is lambda function
+2)how to create lambda function using one parameter
+3)how to create lambda function using two parameter
+4)how to find even or odd using lambda function
+5)create a multiplication table in lambda function using loops
+6)find string,even,odd from user input
+7)what is class
+8)what is object
+9)how to create a class and an object
+10)how to pass values using init
+11)how to create a function inside class - multiple
+12)what is inheritence
+13)create a calculator using inheritance
+14)what is polymorphism
+15)what is the use of super
+16) encapsulation ->access modifiers(private[__],protected[_],public)
+17)what is abstraction
+18)Abstract methods and abstract classes
+19)how to create and import module
+20)what is exception handling => (try,except,else,finally)
+
+=>20/11/2023
+1)method overloading in python
+2)paasing dynamic parameters 
+3)passing key value pairs as parameters
+4)read and text file
+5)write and append the text file
+
+=>21/11/2023
+1)what is data engineering? collection of data,storing it ,processing it,and creating meaningful insights
+2)collection of data - pipeline for transporting
+3)What is data integration? Combining data from different sources, ensure consistency, making data useful for analysis
+4)what is ETL? = E-EXTRACT,T-TRANSFORM,L-LOAD 
+	-extraxt the data from different sources, transform the data according to user requirements, load the data in different resources.
+5)what is azure datafactory
+6)what is storage account
+7)how to create storage acoount
+8)how to delete the storage account
+9)what is log and activity log
+10)how to create a container
+11)how to create a shared access signature
+12)what is shared access policy and how to use it sas
+13)how to show files of blob using python
+14)how to read data from file using python
+15)how to read data from file using stream
+16)what is snapshot and how to restore original snapshot
+17)create snapshot using python
+18)scheduling snapshots 
+
+22/11/2023
+1)what is versioning in blob
+2)how to create a versioning file
+3)how to delete and restore blob
+4)what is static website in blob and how to use it
+5)
+
+27/11/2023
+1)HDFS + MAPREDUCE  = HADOOP
+2)what is name node
+3)what is data node
+4)what is job tracker
+5)what is task tracker
+6)what is mapping and reducing = mapreduce
+7)what is hadoop
+8)what is spark
+9)what is rdd - resilient distributed dataset
+10)installing pyspark
+11)what is sparksession,spark context
+12)broadcast variable implementing which can be accesed across the machines
+13)how to display value
+14)how to store dictionary in broadcast
+15)how to store list in broadcast
+16)what is shared value
+17)type of shared value
+18)print lineage graph
+19)what is accumulator
+20)how to delete in broadcast
+21)what is accumulator
+22)how to create an accumulator
+23)how to create rdd
+24)how to get the number of partitions
+25)how to give partitions manually
+26)how to create rdd from list
+27)how to access first element
+28)how to count the elements
+29)how to create rdd from file
+30)how to create rdd using wholetextfiles
+31)what is repartitioning
+32)when to use coalesce
+33)how to repartition
+34)how to read partitions using glom
+35)how to read blob files using pyspark
+36)what is dataframe and why we need it
+37)how to create dataframe from sample data,rdd,csv
+
+29/11/2023
+1)how to work
+2)

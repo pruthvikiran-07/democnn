@@ -1,0 +1,9 @@
+06/12/2023
+1)what is s3 bucket in aws?
+2)How to create a S3 Bucket?
+3)how to create folder in s3 bucket?
+4)how to upload files in s3 bucket
+5)how to access the file using acl
+6)how to access all the files of s3 bucket using policy
+7)how to access specific folder
+8)
