@@ -1,0 +1,35 @@
+30/11/2023
+1)What is sparkfiles: it allows to add files that can be accessed across clusters.
+2)why we need sparkfiles: -distributed accesibility - efficiency - centralized management
+3)how to addd multiple files(.add) and get them (.get)
+4)what is withColumn()- whenever we want to update the value or create the value
+5)what is lit()- whenever we want to create a col with distinct value
+6)what is filter() - used for conditions
+7) for 'and' operator "&" is used.
+8)how to use isin,endswith,startswith,contains
+9)how to use like()
+10) how to work with groupby,min,max,avg,sum
+11)how to use over clause
+12)window function
+13)max b/w two rows/columns
+14)what is spark sql
+
+01/12/2023
+1)how to use withColumnRenamed- to rename the columns
+2)problem with sql case statement
+3)distinct() and dropDuplicates()
+4)sort() and orderBy()
+5)union and unionall()
+6)unionbyname()
+7)allowmissingcolumns() in union
+8)inner,outer,left,outer joins
+9)leftsemi join
+10)drop()
+11)cache() and persist()
+
+02/12/2023
+1)functions in spark - how to convert first letter in a string
+2)how to use udf 
+3)how to create a udf function
+4)how to access udf inside spark sql
+
